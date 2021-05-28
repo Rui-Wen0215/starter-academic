@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Hyperspectral Denoising Based on Principal Component Low-Rank Tensor Decomposition"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,7 +29,9 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Youhua Wei, Jun Feng, Ruixue Gao, Rui Wen, Wenxi Xu, Wei Wang, and Maozhi Wang.IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2021.
+
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

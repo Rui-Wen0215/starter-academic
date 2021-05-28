@@ -1,40 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rui Wen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student in Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Electronic Science and Technology of China (UESTC)
+  url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Rui Wen is currently pursuing the M.S. degree (advised by Prof. Liang-Jian Deng) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes tensor computing, deep learning, and high-dimensional data processing.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Image Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: M.S in Mathematics(Supervisor: Prof. Liang-Jian Deng)
+    institution: University of Electronic Science and Technology of China (UESTC)
+    year: 09/2021-Current
+  - course: B.S. in Mathmatics and Applied Mathmatics (Supervisor: Prof. Jun Feng)
+    institution: Chengdu University of Technology(CDUT)
+    year: 07/2021-09/2017
+    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,8 +67,4 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Rui Wen is currently pursuing the M.S. degree (advised by Prof. Liang-Jian Deng) with the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC), Chengdu, China. His research interest includes tensor computing, deep learning, and high-dimensional data processing.
