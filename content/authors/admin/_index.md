@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rui Wen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student in Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Electronic Science and Technology of China (UESTC)
+  url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest includes tensor computing, deep learning, and high-dimensional data processing.
 
 # Interests to show in About widget
 interests:
